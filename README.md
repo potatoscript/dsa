@@ -1,4 +1,4 @@
-# 📘 Data Structures and Algorithms (DSA) – Mastery Menu
+# 📘 Data Structures and Algorithms (DSA)
 
 | Title | Remark |
 |-------|--------|
